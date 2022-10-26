@@ -8,7 +8,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-###&nbsp;About Me :
+### About Me :
 
 I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Taiwan currently base in Canada.
 
@@ -19,23 +19,32 @@ I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ---
 
-###&nbsp;Recent Work :
-- [DoorDash like ScrollView - SwiftUI] (https://github.com/tsaihong1995/AnchorScrollView) 
+### Currently work on [Wonderful Palette](https://github.com/tsaihong1995/WonderfulPalette)
+
+Sneak peek of the project...
+
+| 1. Empty Palette  | 2. Auto-generate colour palette |
+| ------------- | ------------- |
+| <img src="OngoingProject_4.png" alt="action" width="300"> | <img src="OngoingProject_3.png" alt="action" width="300"> |
+
+---
+### Recent Work :
+- [DoorDash like ScrollView - SwiftUI](https://github.com/tsaihong1995/AnchorScrollView) 
 <p>
 <img src="https://media.giphy.com/media/6D1ggFFdbo8u4xkYbr/giphy.gif" width="150"/>
 </p>
-- [Shimmer Effect in one line - SwiftUI] (https://github.com/tsaihong1995/ShimmerEffect) 
+- [Shimmer Effect in one line - SwiftUI](https://github.com/tsaihong1995/ShimmerEffect) 
 <p>
 <img src="https://media.giphy.com/media/uSSjQzPJi8UgWHJp62/giphy.gif" width="150"/>
 </p>
-- [Sorting Method Visualizer - SwiftUI] (https://github.com/tsaihong1995/SortingMethods) 
+- [Sorting Method Visualizer - SwiftUI](https://github.com/tsaihong1995/SortingMethods) 
 <p>
 <img src="https://media.giphy.com/media/bwOyFUl9PM6QK6Qmxn/giphy.gif" width="150"/>
 </p>
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 Languages and Tools :
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/>&nbsp;
@@ -48,7 +57,7 @@ I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ---
 
-### 🔥 &nbsp; My Stats :
+### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tsaihong1995&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsaihong1995&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
