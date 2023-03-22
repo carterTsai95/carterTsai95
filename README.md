@@ -19,13 +19,16 @@ I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ---
 
-### Currently work on [Wonderful Palette](https://github.com/tsaihong1995/WonderfulPalette)
+### Currently work on 
+
+1. [CTGauge](https://github.com/tsaihong1995/CTGauge)
+2. [Wonderful Palette](https://github.com/tsaihong1995/WonderfulPalette)
 
 Sneak peek of the project...
 
-| 1. Empty Palette  | 2. Auto-generate colour palette |
+| 1. CTGauge  | 2. Colour palette |
 | ------------- | ------------- |
-| <img src="OngoingProject_4.png" alt="action" width="300"> | <img src="OngoingProject_3.png" alt="action" width="300"> |
+| <img src="https://github.com/tsaihong1995/CTGauge/blob/main/Media/Accessibility-FontSize-2.png" alt="action" width="300"> | <img src="OngoingProject_3.png" alt="action" width="300"> |
 
 ---
 ### Recent Work :
