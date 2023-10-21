@@ -36,10 +36,12 @@ Sneak peek of the project...
 <p>
 <img src="https://media.giphy.com/media/6D1ggFFdbo8u4xkYbr/giphy.gif" width="150"/>
 </p>
-- [Shimmer Effect in one line - SwiftUI](https://github.com/tsaihong1995/ShimmerEffect) 
+
+- [Shimmer Effect in one line - SwiftUI](https://github.com/tsaihong1995/ShimmerEffect)
 <p>
 <img src="https://media.giphy.com/media/uSSjQzPJi8UgWHJp62/giphy.gif" width="150"/>
 </p>
+
 - [Sorting Method Visualizer - SwiftUI](https://github.com/tsaihong1995/SortingMethods) 
 <p>
 <img src="https://media.giphy.com/media/bwOyFUl9PM6QK6Qmxn/giphy.gif" width="150"/>
