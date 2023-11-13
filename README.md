@@ -63,7 +63,9 @@ Sneak peek of the project...
 ---
 
 ### 🔥 My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=carterTsai95)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=carterTsai95&theme=gruvbox)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carterTsai95&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carterTsai95&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
