@@ -20,9 +20,9 @@ I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ---
 
 ### Currently work on 
-
-1. [CTGauge](https://github.com/tsaihong1995/CTGauge)
-2. [Wonderful Palette](https://github.com/tsaihong1995/WonderfulPalette)
+1. [MacClipboard](https://github.com/carterTsai95/MacClipboard)
+1. [CTGauge](https://github.com/carterTsai95/CTGauge)
+2. [Wonderful Palette](https://github.com/carterTsai95/WonderfulPalette)
 
 Sneak peek of the project...
 
