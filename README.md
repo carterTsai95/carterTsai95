@@ -20,9 +20,10 @@ I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ---
 
 ### Currently work on 
-1. [MacClipboard](https://github.com/carterTsai95/MacClipboard)
-1. [CTGauge](https://github.com/carterTsai95/CTGauge)
-2. [Wonderful Palette](https://github.com/carterTsai95/WonderfulPalette)
+1. [cc-session-analyzer](https://github.com/carterTsai95/cc-session-analyzer)
+    - A Claude Code plugin that analyzes any session from .jsonl logs and generates a comprehensive markdown report with mermaid visualizations. Works with skill-driven workflows, general coding sessions, debugging, or any multi-step task.
+2. [MacClipboard](https://github.com/carterTsai95/MacClipboard)
+3. [CTGauge](https://github.com/carterTsai95/CTGauge)
 
 Sneak peek of the project...
 
